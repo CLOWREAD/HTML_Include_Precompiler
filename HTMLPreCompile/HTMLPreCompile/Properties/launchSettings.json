@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HTMLPreCompile": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\out"
+    }
+  }
+}
